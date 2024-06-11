@@ -1,42 +1,31 @@
 TweetVisualizer: Real-Time Word Cloud from Twitter Streams
 
 🚀 Project Overview
-TweetVisualizer is a Python-based tool that generates dynamic word clouds from live Twitter data. 
-By leveraging the Tweepy library for streaming tweets in real-time and the WordCloud library for visualization, this project offers an insightful way to analyze trending words on Twitter.
-
-
-📚 Table of Contents
-Features
-Installation
-Usage
-Configuration
-Examples
-Contributing
-License
-Acknowledgements
+  TweetVisualizer is a Python-based tool that generates dynamic word clouds from live Twitter data. 
+  By leveraging the Tweepy library for streaming tweets in real-time and the WordCloud library for visualization, this project offers an insightful way to analyze trending words on Twitter.
 
 ✨ Features
-Real-Time Twitter Stream: Captures tweets live based on specified keywords.
-Dynamic Word Clouds: Generates word clouds that update in real-time.
-Customizable Filters: Filter tweets by language, location, and more.
-Interactive Visualization: Provides visual insight into trending words.
+  Real-Time Twitter Stream: Captures tweets live based on specified keywords.
+  Dynamic Word Clouds: Generates word clouds that update in real-time.
+  Customizable Filters: Filter tweets by language, location, and more.
+  Interactive Visualization: Provides visual insight into trending words.
 
 🛠 Installation
 
-Prerequisites
-  Python 3.8 or higher
-  Twitter Developer Account for API access
-
-Clone the Repository
-  git clone https://github.com/yourusername/TweetVisualizer.git
-  cd TweetVisualizer
-
-Set Up Virtual Environment
-  python -m venv venv
-  source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-
-Install Dependencies
-  pip install -r requirements.txt
+  Prerequisites
+    Python 3.8 or higher
+    Twitter Developer Account for API access
+  
+  Clone the Repository
+    git clone https://github.com/yourusername/TweetVisualizer.git
+    cd TweetVisualizer
+  
+  Set Up Virtual Environment
+    python -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+  
+  Install Dependencies
+    pip install -r requirements.txt
 
 🚀 Usage
 API Keys
